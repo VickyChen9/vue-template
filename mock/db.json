@@ -1,0 +1,279 @@
+{
+  "tree": [
+    {
+      "label": "首页",
+      "url": "/"
+    },
+    {
+      "label": "机构简介",
+      "url": "",
+      "children": [
+        {
+          "label": "工作简报",
+          "url": "/organization/works"
+        },
+        {
+          "label": "组织架构",
+          "url": "/organization/structure"
+        },
+        {
+          "label": "组织职责",
+          "url": "/organization/duty"
+        }
+      ]
+    },
+    {
+      "label": "最新动态",
+      "url": "",
+      "children": [
+        {
+          "label": "国家,省动态",
+          "url": "/track/country"
+        },
+        {
+          "label": "湛江数字政府动态",
+          "url": "/track/government"
+        }
+      ]
+    },
+    {
+      "label": "政策法规",
+      "url": "",
+      "children": [
+        {
+          "label": "上级文件",
+          "url": "/regulations/superior"
+        },
+        {
+          "label": "市级文件",
+          "url": "/regulations/municipal"
+        },
+        {
+          "label": "政策解读",
+          "url": "/regulations/read"
+        }
+      ]
+    },
+    {
+      "label": "民声互动",
+      "url": "",
+      "children": [
+        {
+          "label": "问卷调查",
+          "url": "/questionnaire"
+        }
+      ]
+    },
+    {
+      "label": "系统管理",
+      "url": "",
+      "children": [
+        {
+          "label": "账号设置",
+          "url": "/system/account"
+        },
+        {
+          "label": "流量统计",
+          "url": "/system/flow"
+        },
+        {
+          "label": "标题设置",
+          "url": "/system/titleSetting"
+        }
+      ]
+    }
+  ],
+  "left": [
+    {
+      "id": 1,
+      "name": "机构简介",
+      "isEdit": 0,
+      "url": "",
+      "children": [
+        {
+          "id": 2,
+          "name": "工作简报",
+          "isEdit": 0,
+          "url": "/organization/works"
+        },
+        {
+          "id": 3,
+          "name": "组织架构",
+          "isEdit": 0,
+          "url": "/organization/structure.html"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "最新动态",
+      "isEdit": 0,
+      "url":"",
+      "children": [
+        {
+          "id:": 5,
+          "name": "国家,省动态",
+          "isEdit": 0,
+          "url": "/track/country"
+        },
+        {
+          "id:": 6,
+          "name": "湛江数字政府动态",
+          "isEdit": 0,
+          "url": "/track/government"
+        }
+      ]
+    },
+    {
+      "id:": 7,
+      "name": "政策法规",
+      "isEdit": 0,
+      "url":"",
+      "children": [
+        {
+          "id:": 8,
+          "name": "上级文件",
+          "isEdit": 0,
+          "url": "/regulations/superior"
+        },
+        {
+          "id:": 9,
+          "name": "市级文件",
+          "isEdit": 0,
+          "url": "/regulations/municipal"
+        },
+        {
+          "id:": 10,
+          "name": "政策解读",
+          "isEdit": 0,
+          "url": "/regulations/read"
+        }
+      ]
+    },
+    {
+      "id:": 11,
+      "name": "民声互动",
+      "isEdit": 0,
+      "url":"",
+      "children": [
+        {
+          "id:": 12,
+          "name": "你问我答",
+          "isEdit": 0,
+          "url": "/questionnaire"
+        }
+      ]
+    },
+    {
+      "id:": 13,
+      "name": "系统管理",
+      "isEdit": 0,
+      "url":"",
+      "children": [
+        {
+          "id:": 14,
+          "name": "账号设置",
+          "isEdit": 0,
+          "url": "/system/account"
+        },
+        {
+          "id:": 15,
+          "name": "流量统计",
+          "isEdit": 0,
+          "url": "/system/flow"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "id": 1,
+      "currentPage": "1",
+      "data": [
+        {
+          "a": "1111"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "currentPage": "2",
+      "data": [
+        {
+          "a": "222"
+        }
+      ]
+    }
+  ],
+  "tableData": [
+    {
+      "date": "2016-05-03",
+      "name": "vicky",
+      "message": "11",
+      "state": false
+    },
+    {
+      "date": "2016-05-02",
+      "name": "jeff",
+      "message": "22"
+    },
+    {
+      "date": "2016-05-04",
+      "name": "lisa",
+      "message": "WEB应用开发",
+      "state": true
+    },
+    {
+      "date": "2016-05-01",
+      "name": "vicky",
+      "message": "上海市普陀区"
+    },
+    {
+      "date": "2016-05-08",
+      "name": "vicky",
+      "message": "显示当前页面的路径，快速返回之前的任意页面"
+    },
+    {
+      "date": "2016-05-06",
+      "name": "vicky",
+      "message": "显示当前页面的路径，快速返回之前的任意页面显示当前页面的路径，快速返回之前的任意页面显示当前页面的路径，快速返回之前的任意页面显示当前页面的路径，快速返回之前的任意页面"
+    },
+    {
+      "date": "2016-05-07",
+      "name": "tommy",
+      "message": "上海市普陀区金沙江路 1518 弄"
+    }
+  ],
+  "reply": [
+    {
+      "date": "2016-05-03",
+      "message": "我省现行地方政府规章和规范性文件规定上级税务机关对下级税务机关负有批准、备案、复议等管理监督指导等职责的，上级税务机关职责已调整到位?",
+      "reply": "111",
+      "replyDate": "2016-05-07"
+    },
+    {
+      "date": "2016-05-02",
+      "message": "我省现行地方政府规章和规范性文件规定上级税务机关对下级税务机关负有批准、备案、复议等管理监督指导等职责的，上级税务机关职责已调整到位?",
+      "reply": "12",
+      "replyDate": "2016-05-09"
+    },
+    {
+      "date": "2016-05-04",
+      "message": "WEB应用开发",
+      "reply": "",
+      "replyDate": ""
+    },
+    {
+      "date": "2016-05-01",
+      "message": "WEB应用开发",
+      "reply": "",
+      "replyDate": ""
+    },
+    {
+      "date": "2016-05-01",
+      "message": "HTML5",
+      "reply": "",
+      "replyDate": ""
+    }
+  ]
+}
